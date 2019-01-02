@@ -40,7 +40,6 @@
 		8B61B1882184F48B0002EAF5 /* BaseLoadingController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B61B1862184F48B0002EAF5 /* BaseLoadingController.storyboard */; };
 		8B61B18C2184F9630002EAF5 /* VideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B61B18B2184F9630002EAF5 /* VideoController.swift */; };
 		8B61B18E218504E20002EAF5 /* PhotoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B61B18D218504E20002EAF5 /* PhotoController.swift */; };
-		8B61B1902185051C0002EAF5 /* AppController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B61B18F2185051C0002EAF5 /* AppController.swift */; };
 		8B61B192218506900002EAF5 /* AppTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B61B191218506900002EAF5 /* AppTabBarController.swift */; };
 		8B61B198218509EA0002EAF5 /* TestModalController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B61B196218509EA0002EAF5 /* TestModalController.swift */; };
 		8B61B199218509EA0002EAF5 /* TestModalController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B61B197218509EA0002EAF5 /* TestModalController.xib */; };
@@ -113,7 +112,6 @@
 		8B61B1872184F48B0002EAF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "Video & Go/Base.lproj/BaseLoadingController.storyboard"; sourceTree = "<group>"; };
 		8B61B18B2184F9630002EAF5 /* VideoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoController.swift; sourceTree = "<group>"; };
 		8B61B18D218504E20002EAF5 /* PhotoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoController.swift; sourceTree = "<group>"; };
-		8B61B18F2185051C0002EAF5 /* AppController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppController.swift; sourceTree = "<group>"; };
 		8B61B191218506900002EAF5 /* AppTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabBarController.swift; sourceTree = "<group>"; };
 		8B61B196218509EA0002EAF5 /* TestModalController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestModalController.swift; sourceTree = "<group>"; };
 		8B61B197218509EA0002EAF5 /* TestModalController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestModalController.xib; sourceTree = "<group>"; };
@@ -377,7 +375,6 @@
 		8B8625D2217FBFD80071B45B /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				8B61B18F2185051C0002EAF5 /* AppController.swift */,
 				8B61B193218506990002EAF5 /* section */,
 				8B61B181218373DF0002EAF5 /* base */,
 				8B61B1822183783C0002EAF5 /* NotificationNameExtension.swift */,
@@ -591,7 +588,6 @@
 				8BDC7E96218A4A7900376227 /* FileKit.swift in Sources */,
 				8B4431322188BADE00B29BE6 /* HomeVideoPlayerView.swift in Sources */,
 				8B8626022180D6DA0071B45B /* BaseCloseViewController.swift in Sources */,
-				8B61B1902185051C0002EAF5 /* AppController.swift in Sources */,
 				8B1CB12421947B5700306E31 /* HomePresentationView.swift in Sources */,
 				8B44312B2188B1BB00B29BE6 /* HeaderView.swift in Sources */,
 			);
