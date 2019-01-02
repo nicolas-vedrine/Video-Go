@@ -1,0 +1,9 @@
+//
+//  Debug.xcconfig
+//  Video & Go
+//
+//  Created by Developer on 01/11/2018.
+//  Copyright © 2018 Nicolas VEDRINE. All rights reserved.
+//
+
+environment_type = debug
