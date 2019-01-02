@@ -75,7 +75,6 @@
 		8BDC7E8F218A488200376227 /* ConfigurationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDC7E8A218A488100376227 /* ConfigurationManager.swift */; };
 		8BDC7E90218A488200376227 /* Deserializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDC7E8B218A488100376227 /* Deserializer.swift */; };
 		8BDC7E93218A49EB00376227 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDC7E92218A49EB00376227 /* Logger.swift */; };
-		8BDC7E96218A4A7900376227 /* FileKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDC7E95218A4A7800376227 /* FileKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -151,7 +150,6 @@
 		8BDC7E8A218A488100376227 /* ConfigurationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfigurationManager.swift; sourceTree = "<group>"; };
 		8BDC7E8B218A488100376227 /* Deserializer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Deserializer.swift; sourceTree = "<group>"; };
 		8BDC7E92218A49EB00376227 /* Logger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
-		8BDC7E95218A4A7800376227 /* FileKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -319,7 +317,6 @@
 				8B64259F216C0BCC00C5CBCF /* Debug.plist */,
 				8BBF56AC218BB90300D1ADEF /* Debug.xcconfig */,
 				8BBF56AF218BC0D500D1ADEF /* Environment.swift */,
-				8BDC7E94218A4A7800376227 /* FileKit */,
 				8B4431042187AB2400B29BE6 /* Fonts */,
 				8B64259C216C0BCC00C5CBCF /* LaunchScreen.storyboard */,
 				8BDC7E91218A49EB00376227 /* LoggerAPI */,
@@ -443,14 +440,6 @@
 				8BDC7E92218A49EB00376227 /* Logger.swift */,
 			);
 			path = LoggerAPI;
-			sourceTree = "<group>";
-		};
-		8BDC7E94218A4A7800376227 /* FileKit */ = {
-			isa = PBXGroup;
-			children = (
-				8BDC7E95218A4A7800376227 /* FileKit.swift */,
-			);
-			path = FileKit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -585,7 +574,6 @@
 				8B61B18E218504E20002EAF5 /* PhotoController.swift in Sources */,
 				8B1CB122219383B900306E31 /* AppModel.swift in Sources */,
 				8B1CC7EF21976BBB00B17DE7 /* Locale.swift in Sources */,
-				8BDC7E96218A4A7900376227 /* FileKit.swift in Sources */,
 				8B4431322188BADE00B29BE6 /* HomeVideoPlayerView.swift in Sources */,
 				8B8626022180D6DA0071B45B /* BaseCloseViewController.swift in Sources */,
 				8B1CB12421947B5700306E31 /* HomePresentationView.swift in Sources */,
